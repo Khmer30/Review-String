@@ -15,7 +15,7 @@ print("Her name is \(name).")
  - Example: If your favorite quote is "The grass is always greener on the other side" the value of `favoriteQuote` should be such that printing `favoriteQuote` results in the following:
  * `My favorite quote is "The grass is always greener on the other side."`
  */
-let favoriteQuote = "smile 🥰 !!!"
+let favoriteQuote = "smile 🥰 !!"
 print("Her quote for today is \(favoriteQuote)")
 //:  Write an if-else statement that prints "There's nothing here" if `emptyString` is empty, and "It's not as empty as I thought" otherwise.
 let emptyString = "The Sky is blue."
